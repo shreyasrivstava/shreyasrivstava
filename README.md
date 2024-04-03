@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👨‍💻 All of my projects are available at https://github.com/shreyasrivstava<br><br>💬 Ask me about Web Development ,Java,C++,ML,PHP,UI/UX.<br><br>📫 How to reach me shreyasri050799@gmail.com<br><br>⚡ Fun fact Mornings are for coffee and contemplation.
+<br><br>👨‍💻 All of my projects are available at https://github.com/shreyasrivstava<br><br>💬 Ask me about Web Development ,Java,React,JavaScript,Python,C++,ML,PHP,UI/UX.<br><br>📫 How to reach me shreyasri050799@gmail.com<br><br>⚡ Fun fact Mornings are for coffee and contemplation.
 
 
 ## 🌐 Socials:
